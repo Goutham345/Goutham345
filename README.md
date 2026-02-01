@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Goutham Reddy
 
-<!--
-**Goutham345/Goutham345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Science Student  
+- Skills: Python, HTML, CSS, SQL  
+- Aspiring Software Developer | Open to Internship & Fresher Roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- Python  
+- HTML, CSS  
+- SQL  
+- Git & GitHub  
+
+---
+
+### 🌱 Currently Learning
+- Data Structures & Algorithms  
+- Backend Development  
+
+---
+
+### 📫 Contact
+- Email: tembarenigouthamreddy@gmail.com
