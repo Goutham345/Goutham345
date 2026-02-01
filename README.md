@@ -1,8 +1,5 @@
-## Hi 👋 I'm Goutham Reddy
-
-- Computer Science Student  
-- Skills: Python, HTML, CSS, SQL  
-- Aspiring Software Developer | Open to Internship & Fresher Roles  
+Hi 👋 I'm Goutham Reddy  
+Aspiring Software Developer | Computer Science Student
 
 ---
 
